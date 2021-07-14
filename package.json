@@ -1,0 +1,19 @@
+{
+  "name": "lifedex-api",
+  "version": "1.0.0",
+  "description": "Backend API for Lifedex app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirkortes/lifedex-api.git"
+  },
+  "author": "sirkortes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirkortes/lifedex-api/issues"
+  },
+  "homepage": "https://github.com/sirkortes/lifedex-api#readme"
+}
